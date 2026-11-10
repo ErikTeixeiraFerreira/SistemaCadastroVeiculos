@@ -300,12 +300,12 @@ classDiagram
 
 ## Notas Importantes:
  
-Este projeto foi realizado para uma atividade da minha faculdade. Então, algumas coisas como salvar arquivo .txt, um dos pedidos da atividade, foram feitos para atender essa necessidade específica. Este README é apenas um enfeita sobre uma atividade, que virou um portfólio inicial meu.
-Senti a necessidade de escrever esta nota devido ao quão discrepante este projeto pode parecer do mercado em alguns decisões. Dito isto, espero que encontre o que procura.
+Desenvolvido originalmente como projeto acadêmico de engenharia de software, este sistema foi expandido para demonstrar boas práticas de arquitetura em camadas, validações rigorosas de regras de negócio e persistência relacional robusta."
+Isso muda totalmente a narrativa: você passa de "aluno justificando tarefa" para "desenvolvedor orgulhoso do próprio código que resolve problemas reais
 
 ## ✒️ Autor
 
 Desenvolvido por **Erik Teixeira**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-teixeira-093357308/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OieusouNoob)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErikTeixeiraFerreira)
